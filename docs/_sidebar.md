@@ -1,3 +1,3 @@
-* [简介](../)
+* [简介](/)
 * Java
-    * [Java基础](../notes/Java基础)
+    * [Java基础](/notes/Java基础)
