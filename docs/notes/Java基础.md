@@ -647,7 +647,7 @@ public enum Size {
 
 在 Java 中的反射机制是指在运行状态中，对于任意一个类都能够知道这个类所有的属性和方法； 并且对于任意一个对象，都能够调用它的任意一个方法；这种动态获取信息以及动态调用对象方法的功能成为Java 语言的反射机制。
 
-![Java 反射](pics/Java%E5%9F%BA%E7%A1%80/Java%20%E5%8F%8D%E5%B0%84.png)
+![Java 反射](pics/Java%E5%9F%BA%E7%A1%80/Java%E5%8F%8D%E5%B0%84.png)
 
 ### 反射的应用场合
 
@@ -805,9 +805,9 @@ JDK动态代理是针对接口的动态代理，生成继承了Proxy类并实现
 
 ### 注解
 
-![image-20210824160236167](pics/Java%E5%9F%BA%E7%A1%80/image-20210824160236167.png)
 
 
+![Java注解 (2)](pics/Java%E5%9F%BA%E7%A1%80/Java%E6%B3%A8%E8%A7%A3%20(2).png)
 
 
 
